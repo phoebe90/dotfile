@@ -5,6 +5,7 @@ Homebrew install list
 ```
 bash-completion
 git
+nvm
 python
 ```
 
