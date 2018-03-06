@@ -1,0 +1,17 @@
+[core]
+	editor = vim
+	ignorecase = false
+[user]
+	name = Phoebe Yang
+	email = phoebe.yang@104.com.tw
+[push]
+	default = simple
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	log = auto
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cblueby %an %Cgreen(%cr)%Creset'
+[merge]
+	tool = vimdiff
